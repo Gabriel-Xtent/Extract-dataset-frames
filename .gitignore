@@ -1,0 +1,10 @@
+# Dados (não versionar) — vídeos de entrada e frames gerados
+inputs/
+outputs-raw/
+output-final/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
